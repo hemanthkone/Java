@@ -1,5 +1,5 @@
 //java program to display student average
-/*file name:StudentAverage
+/*file name:StudentAverage.java
 date:23/08/2024
 author:hemanth*/
 import java.io.*;
